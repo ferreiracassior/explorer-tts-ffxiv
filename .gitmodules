@@ -1,0 +1,15 @@
+[submodule "apps/adventurer-tts-ffxiv-api-server"]
+	path = apps/adventurer-tts-ffxiv-api-server
+	url = https://github.com/seu-usuario/adventurer-tts-ffxiv-api-server.git
+[submodule "apps/adventurer-tts-ffxiv-api-server-infra-storage"]
+	path = apps/adventurer-tts-ffxiv-api-server-infra-storage
+	url = https://github.com/seu-usuario/adventurer-tts-ffxiv-api-server-infra-storage.git
+[submodule "apps/adventurer-tts-ffxiv-api-server-tts-worker"]
+	path = apps/adventurer-tts-ffxiv-api-server-tts-worker
+	url = https://github.com/seu-usuario/adventurer-tts-ffxiv-api-server-tts-worker.git
+[submodule "apps/adventurer-tts-ffxiv-dalamud-plugin"]
+	path = apps/adventurer-tts-ffxiv-dalamud-plugin
+	url = https://github.com/seu-usuario/adventurer-tts-ffxiv-dalamud-plugin.git
+[submodule "apps/adventurer-tts-ffxiv-translation-worker"]
+	path = apps/adventurer-tts-ffxiv-translation-worker
+	url = https://github.com/seu-usuario/adventurer-tts-ffxiv-translation-worker.git
